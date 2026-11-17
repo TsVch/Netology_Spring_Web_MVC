@@ -1,0 +1,1 @@
+https://github.com/netology-code/jspr-homeworks/blob/master/06_mvc/README.md
